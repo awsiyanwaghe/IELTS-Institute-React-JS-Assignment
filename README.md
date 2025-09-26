@@ -7,9 +7,17 @@ A modern, responsive React-based website for an IELTS coaching institute featuri
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4)
 ![Responsive](https://img.shields.io/badge/Design-Responsive-green)
 
+## 🖼️ Screenshots
+
+### Home Page
+![Home Screenshot](./public/react.png)
+
+### About Page
+![About Screenshot](./public/react1.png)
+
 ## 🚀 Live Demo
 
-[View Live Site](https://ielts-masterpro.vercel.app) | [Video Demo](https://youtu.be/demo)
+[View Live Site](https://ielts-institute-react-js-assignment.vercel.app/)
 
 ## ✨ Features
 
@@ -46,3 +54,15 @@ A modern, responsive React-based website for an IELTS coaching institute featuri
    ```bash
    git clone https://github.com/your-username/ielts-masterpro.git
    cd ielts-masterpro
+
+2. **Install dependencies**
+   ```bash
+   npm install
+
+3. **Start development server**
+   ```bash
+   npm run dev
+
+---
+
+✨ **Made with ❤️ and passion by Awsiyan Waghe**
