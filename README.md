@@ -7,6 +7,10 @@ A modern, responsive React-based website for an IELTS coaching institute featuri
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4)
 ![Responsive](https://img.shields.io/badge/Design-Responsive-green)
 
+## 🚀 Live Demo
+
+[View Live Site](https://ielts-institute-react-js-assignment.vercel.app/)
+
 ## 🖼️ Screenshots
 
 ### Home Page
@@ -14,10 +18,6 @@ A modern, responsive React-based website for an IELTS coaching institute featuri
 
 ### About Page
 ![About Screenshot](./public/react1.png)
-
-## 🚀 Live Demo
-
-[View Live Site](https://ielts-institute-react-js-assignment.vercel.app/)
 
 ## ✨ Features
 
